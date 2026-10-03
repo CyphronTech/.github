@@ -4,7 +4,7 @@ Software development agency building web, mobile, cloud and applied AI systems.
 
 We work two ways: as an embedded engineering team for funded startups who need extra capacity and move fast, and as a software partner for established businesses who need something built right and explained in plain language.
 
-**[cyphrontech.com](https://cyphrontech.com)** . cyphrontechllp@gmail.com . India
+**[cyphrontech.com](https://cyphrontech.com)** . contact@cyphrontech.com . India
 
 ---
 
