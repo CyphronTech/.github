@@ -22,10 +22,11 @@ We work two ways: as an embedded engineering team for funded startups who need e
 | --- | --- |
 | [orbitcart](https://github.com/cyphrontech/orbitcart) | React Native B2B commerce app, case study build |
 | [flowdesk](https://github.com/cyphrontech/flowdesk) | Escalation routing workspace for service operations, case study build |
+| [a11y-lint-ci](https://github.com/cyphrontech/a11y-lint-ci) | GitHub Action: axe-core + Playwright accessibility scans on PRs |
 | [Proofly](https://github.com/cyphrontech/DisputeCopilot) | AI chargeback dispute copilot, self-hosted Windows app |
 
 More on [cyphrontech.com/case-studies](https://cyphrontech.com).
 
 ## Working with us
 
-We take on retained engineering work and fixed-scope projects. If you've got something that needs building, reach out at cyphrontechllp@gmail.com or through [cyphrontech.com](https://cyphrontech.com).
+We take on retained engineering work and fixed-scope projects. If you've got something that needs building, reach out at contact@cyphrontech.com or through [cyphrontech.com](https://cyphrontech.com).
